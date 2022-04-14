@@ -1,0 +1,6 @@
+<svg width="210" height="210" xmlns="http://www.w3.org/2000/svg">
+        <rect x="20" y="20" rx="50" ry="50" width="150" height="150"
+  style="fill:red;stroke:black;stroke-width:5;opacity:0.5" />
+        <animateMotion path="M 0 0 L 10 10" begin="1s" dur="5s" fill="freeze" />
+      <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="360"  dur="5s" repeatCount="indefinite" /> 
+     </svg>
